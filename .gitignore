@@ -70,3 +70,9 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Version control config, project use git and this file don't need
+ProjectSettings/VersionControlSettings.asset
+
+# VR config, project don't use Vr and this file don't need
+ProjectSettings/XRSettings.asset
